@@ -1,0 +1,16 @@
+{
+    "student":[
+        {
+        "id":1,
+        "name":"deepak",
+        "age":27,
+        "email":"deepak.bariya@techiegent.com"
+    },
+    {
+        "id":2,
+        "name":"deepak",
+        "age":27,
+        "email":"deepak.bariya@techiegent.com"
+    }
+]
+}

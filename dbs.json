@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "e_name": "rajesh",
+      "e_age": "44",
+      "e_email": "rajesh@example.com",
+      "id": 2
+    },
+    {
+      "e_name": "deepak",
+      "e_age": "22",
+      "e_email": "deepak@example.com",
+      "id": 3
+    }
+  ]
+}
